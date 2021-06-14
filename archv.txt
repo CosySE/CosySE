@@ -1,0 +1,54 @@
+Hi everyone we weekly video  discussion about everythng happens for one reason.What is your  opinion
+For me i think that is a really deep topic. Because depend your philosophy and enviorment actually wein yur live.
+but the fact is that we have  the control in own live  and are  a totally responsable for our decision and action
+and every decision  than we take have a consequence r own  wishes ,without expect it cause the action of other people 
+that is a moment to think this happens for a reason or not  and how i respond to this situation positive way or negative way  that is my also decision 
+anyway is complicated but to finish  have to cnfront  our reality the  best way posible we even though some time we was pretty hard  
+weekly video discussion  about what are the first that you thinking when you wake up
+RESUMEN
+Blog. Es una nueva herramienta de comunicación que ayuda a especialistas y entidades a organizar y publicar contenidos acerca de su quehacer, saberes y experiencias.
+Necesario para el proceso de informatización de nuestra empresa y una vía de autoaprendizaje enfocado a temas personalizados.
+INTRODUCCIÓN
+
+Un blog no es más que un sitio web, en el que se va publicando contenido cada cierto tiempo en forma de artículos, ordenados por fecha de publicación, así el artículo más reciente aparecerá primero. De carácter empresarial o personal con una estructura cronológica que se actualiza regularmente y que se suele dedicar a tratar un tema concreto.
+
+El blog corporativo es más permanente. Se ordena cronológicamente la información está disponible para consulta en cualquier momento.
+Como en cualquier otro proyecto, el primer paso para empezar a manejarse con un blog es establecer las metas y los objetivos. La nuestra fue crear un espacio para el diálogo, una herramienta en la comunicación institucional, autoaprendizaje y retroalimentación con los trabajadores, también contiene un sistema mediante el cual los visitantes pueden publicar sus comentarios, convirtiéndose de esa manera en coautores del blog.
+
+En nuestro caso se realizó en WordPress (CMS manejador de contenido) muy utilizado en nuestros días con un hosting propio de la entidad instalando la plataforma en un servidor propio. Con alcance a nivel nacional, donde todas nuestras dependencias tienen acceso al mismo.
+
+Le proponemos un breve recorrido sobre que se quiere lograr con la implementación del Blog Escambray
+
+DESARROLLO
+
+Objetivo: Implementar una estrategia de auto crecimiento en todo el capital humano de nuestra Empresa. Permitiendo focalizar sus dudas y barreras de desarrollo en el puesto de trabajo, dándole solución a las mismas, que a su vez proporciona una base permanente para futuras generaciones. La misma logra tener en formato digital y accesible desde cualquier dispositivo, información valiosa para el mejor desempeño con las TICs en nuestra área de trabajo.
+
+Misión: Lograr que el Blog Escambray llegue a funcionar como un recurso capacitador para todo el personal de esta forma poder dar un paso más en el proceso de informatización de nuestra entidad.
+
+Estamos listos para afrontar la pregunta qué es un blog y que utilidad tiene realmente
+Para entender mejor lo que es un blog es útil conocer los componentes principales del mismo: Incluyen una lista de entradas de los textos o artículos del autor del blog. En este componente se pueden incluir fotos, videos y audio como parte de las entradas. La mayor parte de los blogs le ofrecen la oportunidad al visitante de reaccionar a los artículos publicados por el autor mediante un sistema de comentarios.
+Tienen un calendario y archivo electrónico que le permite al lector acceder los artículos que se han publicado en los diferentes días del mes.
+Los artículos y entradas de un blog pueden ser clasificados en categorías lo cual permite organizarlos de forma más efectiva.
+Poseen una función de búsqueda que facilita encontrar el material que se haya publicado en el blog.
+Una característica esencial de los blogs son los hipervínculos que forman parte del contenido del mismo. Un blog es esencialmente un documento que constantemente enlaza a otros.
+Así, se conoce como blog un sitio web que exhibe una serie de funcionalidades distintivas una dinámica peculiar dominada por una frecuencia de actualización relativamente alta y un formato donde los contenidos se organizan en orden cronológico inverso, apareciendo en primer lugar (arriba) los más recientes.
+La frecuencia de actualización y el contenido se consideran características definitorias. El contenido ha evolucionado, dando cabida a elementos cada vez más ricos.
+
+Ventajas 
+-Muchos sistemas para crear blogs permiten crear y editar el mismo desde un navegador de Internet.  -Los blogs permiten de forma sencilla organizar los artículos por categorías temáticas y de forma cronológica.- Publicar contenido en un blog es similar a enviar un correo electrónico. Si sabe utilizar el correo electrónico no tendrás problemas para manejar un blog. 
+
+Todas estas ventajas que presenta el hecho de tener un blog, se aterrizó en nuestra empresa creando un menú con categorías como: Informática, Logística, Recursos Humanos, Dirección, Economía, entre otros, con el fin de en cada una de ellas se despliegue una variedad de artículos, donde se explique de forma clara como proceder en un tema en específico, partiendo desde la premisa que el saber de uno puede ser la duda de muchos otros y recíprocamente también. Cuenta con un encabezado que contiene una barra con una sección para búsqueda de un tema en específico en el centro la palabra Blog y en la izquierda el logo de nuestra empresa. Ya en el centro la conforma un área dividida en don dos partes la más amplia donde se encuentra un resumen de los últimos artículos publicados y en la otra una sección con los artículos ordenados por mes de publicación y otra sección denominada ¿Quizá te interese? Donde se encuentran temas que no están relacionados con ninguna categoría específica de las antes mencionadas. Sin olvidar que todos estos tips, consejos y procederes quedarían ahí almacenados de forma permanente y disponibles para todo el que lo necesite. Además, ante cualquier inquietud se puede dejar comentarios que serán atendidos según el tema por la persona que conozca del mismo.
+Además, cuenta con un valor agregado y es el hecho que está directamente enlazada con el servidor YouTube creado en nuestra propia empresa que permite mostrar muchas soluciones, ya de manera práctica donde el usuario puede visualizar un video de cómo proceder en algún tema en específico. Como todas nuestras dependencias están conectadas con Casa Matriz no requiere de conexión internet para tener acceso a dicha información.
+
+Breve imagen del blog
+Información Técnica
+Toda la infraestructura utilizada fue con tecnología Open Source código abierto libre de costo y accesible para Cuba. Por ejemplo, tenemos:
+CMS Gestor de contenidos WordPress la cual se mantiene actualizada. Permite crear y mantener un blog u otro tipo de web con mucha facilidad y con posibilidad de modificarlos, ya que está en constante desarrollo y se crean plugins que facilitan su flexibilidad
+Hosting sobre Virtualmind que es un módulo de Webmin que permite una amplia administración de servidores virtuales privados múltiples. Capaz de gestionar Apache, PHP, DNS entre otros, posee poderosas herramientas para administración de sitios webs, servidores de correo 
+Servidor sobre Centos: Es un sistema operativo de código abierto basado en la distribución Red Hat Enterprise Linux operándose de manera similar y cuyo objetivo el ofrecer al usuario un software de clase empresarial gratuito. Se define como robusto, estable y fácil de instalar y utilizar.
+Creación del tema en HTML5 y CSS3 Lenguaje de programación básico de World Wide Web que junto con las Hojas de Estilo en Cascada nos permite definir la estructura de una página web, sus reglas su adaptabilidad para diferentes dispositivos.
+
+Conclusiones
+Un blog es una herramienta que puede ser muy útil para alcanzar objetivos corporativos y entablar un diálogo con la audiencia. una manera sencilla de presentar breves trozos de contenido en Internet de manera periódica, sin la necesidad de contar con un desarrollador o diseñador web experto.  
+stablece diálogo con los grupos de interés: se puede establecer un diálogo directo. 
+Mejorar la visibilidad en la Web. 
