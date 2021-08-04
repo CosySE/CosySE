@@ -4,7 +4,7 @@ from kivy.uix.button import Button
 from kivy.uix.label import Label
 from kivy.uix.textinput import TextInput
 from kivy.uix.image import Image
-
+#sencilla aplicacion en kivy introduces un nombre y te saluda la presionar el boton espero les ayude
 class Saludar (App):
     def build(self):
         self.ventana = GridLayout()
