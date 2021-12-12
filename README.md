@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @CosySE estudiante y amada del aprendizaje
 - 👀 I’m interested in ...learn python full stack
 - 🌱 I’m currently learning ...python basic
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on ...every project tht looks interesting
 - 📫 How to reach me ...cosy890720@gmail.com
 
 <!---
