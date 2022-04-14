@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @CosySE estudiante y amada del aprendizaje
+- 👋 Hi, I’m Dayitecnologia estudiante y amada del aprendizaje y creadora de contenido para YOUTUBE
 - 👀 I’m interested in ...learn python full stack
 - 🌱 I’m currently learning ...python basic
 - 💞️ I’m looking to collaborate on ...every project tht looks interesting
